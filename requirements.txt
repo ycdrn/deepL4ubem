@@ -1,0 +1,10 @@
+opencv-python==4.10.0.84
+matplotlib==3.9.2
+tqdm==4.66.5
+pillow==11.2.1
+torch==2.5.1
+numpy==2.0.0
+roboflow==1.1.49
+scikit-image==0.24.0
+pandas==2.2.3
+scipy==1.14.1
