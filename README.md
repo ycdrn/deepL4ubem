@@ -2,7 +2,7 @@
 
 [Ayca Duran](https://systems.arch.ethz.ch/ayca-duran), [Panagiotis Karapiperis](https://www.linkedin.com/in/panagiotis-karapiperis-ethz/), [Christoph Waibel](https://systems.arch.ethz.ch/christoph-waibel), [Arno Schlueter](https://systems.arch.ethz.ch/arno-schlueter)
 
-[Paper]([tba](https://www.research-collection.ethz.ch/entities/publication/dd9fcd39-2691-4040-8f5a-de95984d74e4)) – CISBAT 2025
+[Paper](https://www.research-collection.ethz.ch/entities/publication/dd9fcd39-2691-4040-8f5a-de95984d74e4) – CISBAT 2025
 
 ![Paper Visual](paper_visual.png)
 
